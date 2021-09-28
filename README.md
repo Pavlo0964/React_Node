@@ -1,4 +1,4 @@
-#  React.js Blog App with Node.js backend
+# React.js Blog App with Node.js backend
 
 ## Project setup
 
